@@ -1,0 +1,34 @@
+# Bytecode files
+*.class
+
+# Logs
+*.log
+
+# IDE-specific files
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# Build directories
+bin/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Other
+*.jar
+*.war
+*.zip

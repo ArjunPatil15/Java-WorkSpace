@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wb.internal.core.model.property.editor.string.StringPropertyDialog">
+		<item key="x" value="460"/>
+		<item key="y" value="294"/>
+		<item key="width" value="700"/>
+		<item key="height" value="440"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.ImportArchiveDialog">
+		<item key="x" value="460"/>
+		<item key="y" value="259"/>
+		<item key="width" value="700"/>
+		<item key="height" value="502"/>
+		<list key="HISTORY_JAR_LIST">
+			<item value="D:\Java workspace\jcalendar-1.4\lib\jcalendar-1.4.jar"/>
+		</list>
+	</section>
+	<section name="org.eclipse.wb.internal.core.nls.ui.NlsDialog">
+		<item key="x" value="480"/>
+		<item key="y" value="255"/>
+		<item key="width" value="960"/>
+		<item key="height" value="510"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.actions.errors.ErrorsDialog">
+		<item key="x" value="515"/>
+		<item key="y" value="96"/>
+		<item key="width" value="890"/>
+		<item key="height" value="827"/>
+	</section>
+	<section name="org.eclipse.wb.internal.swing.model.property.editor.models.table.TableModelDialog">
+		<item key="x" value="202"/>
+		<item key="y" value="175"/>
+		<item key="width" value="958"/>
+		<item key="height" value="670"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.CategoryAddDialog">
+		<item key="x" value="610"/>
+		<item key="y" value="265"/>
+		<item key="width" value="700"/>
+		<item key="height" value="489"/>
+	</section>
+</section>
